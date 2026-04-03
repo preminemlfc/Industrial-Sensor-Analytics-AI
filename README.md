@@ -23,5 +23,4 @@ By analyzing the sensor logs, this script identifies:
 
 1. Which machines are currently in a 'Fault' status.
 2. The specific Voltage-Temperature correlation that leads to hardware failure.
-3. Prioritization for maintenance teams based on Average Temperature per machine unit.
-4. 
+3. Prioritization for maintenance teams based on Average Temperature per machine unit. 
